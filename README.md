@@ -1,20 +1,39 @@
-# dotnet-clean-architecture-template
+dotnet-clean-architecture-template
 
-A production-ready .NET Clean Architecture template using:
+A production-ready .NET Clean Architecture template designed to help you build scalable, maintainable, and testable applications.
 
-- Clean Architecture
-- CQRS with MediatR
-- EF Core
-- FluentValidation
-- SOLID principles
+🚀 Tech & Principles
 
-## Layers
+This template is built using:
 
-- Domain
-- Application
-- Infrastructure
-- WebApi
+Clean Architecture
 
-## Author
+CQRS with MediatR
 
-Fatbardh Hoxhaj (bardh.dev)
+Entity Framework Core
+
+FluentValidation
+
+SOLID principles
+
+🧱 Project Structure
+
+The solution is organized into the following layers:
+
+Domain – Core business rules and entities
+
+Application – Use cases, CQRS, and business logic orchestration
+
+Infrastructure – Data access, external services, and integrations
+
+WebApi – Presentation layer and API endpoints
+
+✨ Purpose
+
+This template provides a strong foundation for real-world .NET projects, enabling clear separation of concerns, easier testing, and long-term maintainability.
+
+👤 Author
+
+Fatbardh Hoxhaj
+Freelance .NET Developer
+🌐 bardh.dev
