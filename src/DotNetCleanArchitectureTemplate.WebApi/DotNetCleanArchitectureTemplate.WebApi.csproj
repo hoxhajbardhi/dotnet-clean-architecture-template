@@ -13,4 +13,14 @@
     <ProjectReference Include="..\DotNetCleanArchitectureTemplate.Infrastructure\DotNetCleanArchitectureTemplate.Infrastructure.csproj" />
   </ItemGroup>
 
+ 
+    
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.4" />
+  </ItemGroup>
+
 </Project>
