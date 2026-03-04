@@ -1,5 +1,6 @@
 using DotNetCleanArchitectureTemplate.Infrastructure;
 using DotNetCleanArchitectureTemplate.WebApi.Endpoints;
+using DotNetCleanArchitectureTemplate.WebApi.Extensions;
 using DotNetCleanArchitectureTemplate.WebApi.Middleware;
 
 
